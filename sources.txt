@@ -1,0 +1,41 @@
+Sources downloaded 2026-11-09 into eic_voc_research/
+
+1. Petram VOC share price / reinvestment index - https://www.worldsfirststockexchange.com/2020/10/01/what-was-the-return-on-voc-shares/
+   Extract: 851 price observations; VOC Amsterdam price mean c.450 second half 17th c.; dividends every year/six months from 1635, cash from 1646; 1603-1697 avg return 8.69% vs Holland bonds 6.25% to c.4%.
+   Relevance: establishes VOC price level and dividend history baseline for 1725.
+
+2. Taylor GFD Long-term Returns to Dutch and Indonesian stocks - https://www.investmentoffice.com/Observations/Markets_in_History/Long-term_Returns_to_Dutch_and_Indonesian_stocks.html
+   Extract: Trading in VOC 1601-1794; issued new debt not new equity; peaked in 1720 bubble; 1602-1719 return 6.93% (1.4% price +5.45% dividends); prices declined 1719-1794; bankruptcy 1794.
+   Relevance: direct support for VOC decline after 1719 peak.
+
+3. Robins via Business Insider History of British East India Company - https://www.businessinsider.com/history-of-british-east-india-company-2013-4
+   Extract: EIC shares nearly 150 by 1693; by 1740 reached 200 and supplanted Dutch; rose 12% on Plassey news, climbing to nearly 275; Clive won 2.5m immediate.
+   Relevance: EIC price trajectory 1693-1740-1757.
+
+4. Yale Lewis Walpole Course of the Exchange - https://campuspress.yale.edu/lewiswalpole/course-of-the-exchange-c
+   Extract: Twice weekly price of money, stocks, bonds from 1719 to at least 1758, Tuesdays/Fridays by George Shergold and sister of late John Castaing.
+   Relevance: primary price current for EIC/London.
+
+5. Nationaal Archief VOC inventory 1.04.02 - https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1/file/NL-HaNA_1.04.02_1_01
+   Extract: Heren XVII minute-resolutions digitalized; 1723 Feb22-1725 Sep28, 1726-1728, 1745-46, 1749-50 present.
+   Relevance: Dutch primary source holdings.
+
+6. Huygens van Dam - https://resources.huygens.knaw.nl/vocbeschrijvingvandam
+   Dutch: 1693 commission by Heren Seventeen; treats founding, sale of Asian products, trade, conquest, governance, justice, abuses.
+   Relevance: VOC internal description.
+
+7. BnF John Law - https://heritage.bnf.fr/france-ameriques/en/john-law-and-compagnie-doccident
+   Extract: 1716 bank, 1717 Compagnie d'Occident, Sep 1718 tobacco, absorbed Senegal/Guinea slave trade and East Indies/China, Aug 1719 debt conversion, shares 500 to >10000 livres, collapse summer 1720.
+   Relevance: French bubble context for 1720 crash.
+
+8. World History Encyclopedia Battle of Plassey - https://www.worldhistory.org/article/2107/battle-of-plassey/
+   Extract: 23 June 1757 Clive 3000 vs 50000, Mir Jafar betrayal, treasury distributed, jagir, governor Bengal 1758.
+   Relevance: post-window re-rating; why not in 1745-50 cash-out.
+
+9. South Sea Company Wikipedia / Yale South Sea Bubble data
+   Extract: peak 128 Jan 1720 to >1000 Aug 1720 to 124 Dec 1720; bubble act; debt conversion mechanism.
+   Relevance: why Jan 1725 is post-bubble entry.
+
+10. EIC-Wikipedia textile export table + VOC decline
+    Extract: EIC vs VOC Indian textile pieces 1720-49 EIC 700-800k vs VOC 240-400k; VOC decline factors: intra-Asian erosion, Batavia centralisation, corruption, mortality, dividends > surplus after 1730.
+    Relevance: trade cause of price divergence.

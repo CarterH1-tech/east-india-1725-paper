@@ -1,0 +1,36 @@
+Summaries of extracted sources
+
+PETRAM: VOC Amsterdam price never >200 before 1633, mean c.450 late 17th c. with war fluctuations. Dividends in kind (mace 1610, cloves 1630s) then cash from 1646, yearly from 1635. Reinvestment index 100 guilders 1602 to 65000 by 1700. But price data sketchy, no official series.
+=> Use for baseline: Jan 1725 VOC still high-price, high-dividend stock.
+
+TAYLOR/GFD: Confirms 1720 peak and 1719-94 price decline; VOC issued debt not equity; 6.93% total return 1602-1719 masks later price loss offset by dividends.
+=> Supports selling VOC early; not holding 1725-50.
+
+ROBINS: EIC 150 in 1693, 200 by 1740, 275 after Plassey.
+=> Supports EIC capital gain 1725-50, and that Plassey spike is after window.
+
+COURSE OF EXCHANGE: London price current continuous 1719-1758.
+=> Primary price source for EIC.
+
+VOC RESOLUTIONS: Heren XVII decisions cover equipage, returns, dividends, private trade, war.
+=> Primary ethical/business source (Dutch).
+
+VAN DAM: VOC self-history: conquest, administration, abuses, church, disputes with English (Book V missing).
+=> Primary Dutch source for structure + abuses.
+
+LAW/BnF: French Compagnie des Indes absorbed slave-trade and East India companies, debt-for-shares conversion, 500 to 10000+ livres, collapse 1720.
+=> Context: 1720 international bubble hits Amsterdam/London too; entry Jan 1725 post-crash.
+
+PLASSEY/WHE: Conspiracy with Seths/Mir Jafar, tiny EIC force wins, treasury plunder, jagir.
+=> Post-1750 upside not available to 1745-50 seller; also ethical turning point.
+
+TEXTILE TABLE + VOC decline (Wikipedia synthesis of Chaudhuri/Gaastra):
+EIC pieces >> VOC every 5-year bin 1720-49; Bengal drives EIC. VOC squeezed from Persia/Suratte/Malabar/Bengal, confined to Ceylon-Indonesia; Canton only 1729; corruption/venality; mortality; after 1730 dividends exceed surplus, Asian capital drawn down, bank loans.
+=> Fundamental reason EIC price rises while VOC falls.
+
+Refutation check (second chatbot pass):
+- Pro-VOC argument: VOC 5-7% dividend yield on market price 1725-50 exceeded EIC c.5-6%, and VOC dividends were regular semi-annual; a yield investor might prefer VOC.
+- Rebuttal: Taylor shows dividend funded by borrowing/capital after 1730; Amsterdam price fell despite dividends; textile volumes collapse. Yield is balance-sheet funded, not sustainable. EIC dividend lower nominally but paid from growing surplus.
+- Pro-EIC risk: EIC 1746-48 Madras capture, 1740s war risk; EIC charter renewal required £1m loan 1742; could fall.
+- Rebuttal: War dent temporary, peace 1748 restores trade; EIC capital increase (new stock) unlike VOC debt-only; Bengal 1717 customs waiver and Mughal decline favour EIC.
+- Ethical refutation: Both violent. VOC Banda genocide and Batavia 1740 massacre vs EIC forced weavers post-1757 and slave supply. Within 1725-50, EIC less reliant on forced spice deliveries/slave plantations; VOC ethical cost higher. Ethical investor should avoid both; if must choose, EIC with moral discount.
