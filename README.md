@@ -35,9 +35,8 @@ pandoc paper.md -o paper.pdf --pdf-engine=wkhtmltopdf
 
 ## Contents
 
-- `paper.md` — the paper + word count + linked bibliography
+- `paper.md` — the paper (Markdown) + word count + linked bibliography
 - `build.py` — Markdown → PDF builder
 - `Makefile` — `pdf`, `install`, `clean`, `check` targets
 - `requirements.txt` — Python dependencies
-- `final_paper.md` — same paper (pre-link revision, kept for provenance)
-- `draft.txt`, `sources.txt`, `summaries.txt` — research notes
+- `sources.txt`, `summaries.txt` — research notes
